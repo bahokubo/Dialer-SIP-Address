@@ -1,0 +1,12 @@
+<Extensions>
+  <Version>1.6</Version>
+  <Panel>
+    <PanelId>call</PanelId>
+    <Type>Home</Type>
+    <Icon>Handset</Icon>
+    <Order>2</Order>
+    <Color>#A866FF</Color>
+    <Name>call</Name>
+    <ActivityType>Custom</ActivityType>
+  </Panel>
+</Extensions>
